@@ -35,7 +35,7 @@ export default function Footer() {
           <div>
             <h4 className="font-medium mb-4 text-sm">Connect</h4>
             <ul className="space-y-2 text-sm">
-              <li><a href="https://youtube.com/@SoulResonances844" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-brand-gold transition-colors">YouTube @SoulResonances844</a></li>
+              <li><a href="https://youtube.com/@soulresonance844" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-brand-gold transition-colors">YouTube @soulresonance844</a></li>
               <li><a href="https://instagram.com/soulresonances" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-brand-gold transition-colors">Instagram</a></li>
             </ul>
           </div>
